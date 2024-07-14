@@ -1,0 +1,1 @@
+This document provides a description and usage instructions for the calculateScore function. This function computes a final score based on performance, penalty, and fitness values, and applies specific bonuses under certain conditions.
